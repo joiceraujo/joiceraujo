@@ -25,4 +25,3 @@
  
  
 </div>  
-  ![Snake animation](https://github.com/joiceraujo/joiceraujo/blob/output/github-contribution-grid-snake.svg)
