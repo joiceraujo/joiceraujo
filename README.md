@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Joice Araújo 👋
 
-- 🔭 Desenvolvedora Front-end
+- 🔭 Software Developer
 - 🌱 Estudando na @betrybe
 - 📫 Contate-me no email: joicearaujoedu@gmail.com
 - 😄 Pronomes: ela/dela
