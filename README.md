@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Joice Araújo 👋
 
 - 🔭 Software Developer
-- 🌱 Estudando na @betrybe
+- 🌱 Agile Analyst
 - 📫 Contate-me no email: joicearaujoedu@gmail.com
 - 😄 Pronomes: ela/dela
 <div align="center">
