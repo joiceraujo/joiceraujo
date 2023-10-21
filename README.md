@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Joice Araújo 👋
 
-- 🔭 Software Developer
-- 🌱 Agile Analyst
+- Developer Front End | HTML | CSS | React | JavaScript | Node Js | SQL
 - 📫 Contate-me no email: joicearaujoedu@gmail.com
 - 😄 Pronomes: ela/dela
 <div align="center">
