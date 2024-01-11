@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-C" width="40" height="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
-  <img align="center" alt="Rafa-C" width="40" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img align="center" alt="Rafa-C" width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 </div>
 
 ##
