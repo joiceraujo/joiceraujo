@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-C" width="40" height="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img align="center" alt="Rafa-Njs" width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img align="center" alt="Rafa-sql" width="64" height="64" src="https://img.icons8.com/external-bearicons-blue-bearicons/64/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="external-SQL-file-extension-bearicons-blue-bearicons"/>
+  <img align="center" alt="Rafa-sql" width="50" height="50" src="https://img.icons8.com/external-bearicons-blue-bearicons/64/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="external-SQL-file-extension-bearicons-blue-bearicons"/>
 </div>
 
 ##
