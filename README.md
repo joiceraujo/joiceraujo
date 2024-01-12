@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Njs" width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img align="center" alt="Rafa-sql" width="40" height="40" src="https://img.icons8.com/external-bearicons-blue-bearicons/64/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="external-SQL-file-extension-bearicons-blue-bearicons"/>
   <img align="center" alt="Rafa-azure" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png" alt="external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo"/>
-  <img align="center" alt="Rafa-microsoft" width="48" height="48" src="https://img.icons8.com/color/48/microsoft.png" alt="microsoft"/>
+  <img align="center" alt="Rafa-microsoft" width="40" height="40" src="https://img.icons8.com/color/48/microsoft.png" alt="microsoft"/>
 </div>
 
 ##
