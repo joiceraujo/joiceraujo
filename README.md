@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Joice Araújo 👋
 
-- Desenvolvedora Backend | .Net | ASP.Net | C# | SQL | Microsoft Azure
+- Desenvolvedora Full Stack | .Net | ASP.Net | C# | SQL | Microsoft Azure
 - 📫 Contate-me no email: joicearaujoedu@gmail.com
 - 😄 Pronomes: ela/dela
 <div align="center">
